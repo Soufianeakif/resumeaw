@@ -1,0 +1,16 @@
+node_modules
+.next
+.git
+.gitignore
+data
+public/uploads/*
+public/compiled/*
+*.log
+.env
+.env.*
+!/.env.example
+Dockerfile
+.dockerignore
+README.md
+.texlive
+.cache

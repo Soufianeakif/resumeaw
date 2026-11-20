@@ -1,0 +1,20 @@
+{
+  "name": "resumeaw — local LaTeX resume studio",
+  "short_name": "resumeaw",
+  "description": "Local-first LaTeX resume editor with live PDF preview and AI-assisted layout fixes.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1F4E79",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
